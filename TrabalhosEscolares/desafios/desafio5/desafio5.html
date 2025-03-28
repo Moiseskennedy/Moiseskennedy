@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<!--
+Desafio 1: Criando um Cartão de Produto*
+
+Crie um cartão de produto simples usando HTML e CSS.
+
+Use tags de título, parágrafo e imagem para exibir as informações do produto.
+Use seletores para estilizar os diferentes elementos do cartão
+Experimente diferentes propriedades de texto, cores de fundo e bordas.
+Use o modelo de caixa para controlar o espaçamento e o layout do cartão.
+Tente deixar o cartão com uma aparência atraente e informativa.
+
+-->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Desafio 5</title>
+  <style>
+    #tras {
+      background-color: #8A05FF;
+      border: 2px solid black;
+      border-radius: 10px;
+      height: 200px;
+      width: 360px;
+      margin-bottom: 10px;
+    }
+    
+    #black {
+      margin-top: 20px;
+      height: 50px;
+      width: 360px;
+      background-color: black;
+    }
+    
+    #informacao {
+      font-size: 8px;
+      margin-left: 5px;
+      color: white;
+    }
+    
+    #white {
+      background-color: white;
+      border-radius: 50px;
+      height: 50px;
+      width: 70px;
+      margin-top: 1px;
+      margin-bottom: 5px;
+      margin-left: 10px;
+    }
+    
+    .dado {
+      font-size: 14px;
+      font-family: arial;
+      letter-spacing: 2px;
+      margin: 2px 10px 0 5px;
+      color: white;
+    }
+    
+    #frente {
+      background-color: #8A05FF;
+      border: 2px solid black;
+      border-radius: 10px;
+      height: 360px;
+      width: 200px;
+    }
+    
+    #master {
+      margin: 25px 0 0 15px;
+      display: inline-block;
+    }
+    
+    #chip {
+      display: inline-block;
+      margin-left: 20px;
+    }
+    
+    #patrocinio {
+      margin-top: 50%;
+      margin-left: 10px;
+    }
+    
+    #moises {
+      font-size: 10px;
+      margin-top: 60%;
+      color: white;
+      margin-left: 15px;
+    }
+  
+  </style>
+</head>
+<body>
+  <h1>Qualquer semelhança é mera coincidência</h1>
+  <div id="tras">
+    
+    <div id="black"></div>
+    
+    <p id="informacao">
+      <strong>craquiado (suas dividas nossa alegria)</strong>
+    </p>
+    
+    <div id="white"></div>
+    
+    <h1 class="dado">
+      MOISES K B MENDES
+    </h1>
+    <h1 class="dado">
+      1234 4321 5678 8754
+    </h1>
+  </div>
+  
+  <div id="frente">
+    <img id="master"
+      src="/TrabalhosEscolares/desafios/desafio5/Mastercard_logo.png" alt="mastercard" height="40px" width="72px"/>
+    
+    <img id="chip"
+      src="/TrabalhosEscolares/desafios/desafio5/chip.png" alt="chip" height="38" width="45"/>
+    
+    <p id="moises">
+      MOISES K B MENDES
+    </p>
+    
+    <img id="patrocinio"
+      src="/TrabalhosEscolares/desafios/desafio5/Patrocínio.png" alt="patrocinio" height="60" width="100"/>
+  </div>
+</body>
+</html>
