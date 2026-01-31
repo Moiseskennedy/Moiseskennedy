@@ -1,4 +1,4 @@
-![Banner Hello World](1769830939614.png)
+![Banner Hello World](Coder.jpg)
 # Olá, eu sou o Moises Kennedy! 👋
 
 Desenvolvedor em formação focado em criar soluções eficientes e documentadas. Atualmente cursando o 3º semestre de ADS na FATEC Franca.
