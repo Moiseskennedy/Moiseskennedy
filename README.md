@@ -16,4 +16,7 @@ Desenvolvedor em formação focado em criar soluções eficientes e documentadas
 ### 📬 Vamos nos conectar?
 - **LinkedIn:** https://www.linkedin.com/in/moises-kennedy-batista-mendes-a21803189?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/626178970085359637)
+- 
+
 
