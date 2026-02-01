@@ -14,4 +14,6 @@ Desenvolvedor em formação focado em criar soluções eficientes e documentadas
 - **Bancos de Dados:** MySQL / PostgreSQL.
 
 ### 📬 Vamos nos conectar?
-[Link do seu LinkedIn aqui] | Discord: [Seu User aqui]
+- **LinkedIn:** https://www.linkedin.com/in/moises-kennedy-batista-mendes-a21803189?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
