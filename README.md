@@ -1,27 +1,50 @@
-![Banner Hello World](Coder.jpg)
-# Olá, eu sou o Moises Kennedy! 👋
+<div align="center">
+  <img src="Coder.jpg" width="100%" alt="Banner Hello World">
+  
+  # Olá, eu sou o Moises Kennedy! 👋
+  
+  *"Transformando requisitos em soluções reais através da Engenharia de Software."*
+</div>
 
-### 📊 Minhas Estatísticas
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moiseskennedy&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Moiseskennedy&layout=compact&theme=dracula&langs_count=6" />
-</p>
-
-### 🔥 Minha Constância
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Moiseskennedy&theme=dracula&hide_border=true)
-
+---
 
 ### 🚀 Sobre mim
-- 🛠️ Atuando no desenvolvimento de projetos para ONGs, aplicando boas práticas de Engenharia de Software.
-- 🎯 Foco atual: Aperfeiçoamento em Python e SQL para análise de dados e Machine Learning.
-- 📚 Experiência com levantamento de requisitos, diagramação (BPMN, UML) e metodologias ágeis.
+- 🎓 **FATEC Franca:** Cursando Análise e Desenvolvimento de Sistemas (3º Semestre).
+- 🛠️ **Impacto Social:** Atuação no desenvolvimento de projetos para ONGs (Instituto Luz de Lô), aplicando arquitetura em camadas e boas práticas de Engenharia de Software.
+- 🎯 **Foco Atual:** Especialização em **Python** e **SQL** voltados para Análise de Dados e Machine Learning.
+- 📚 **Soft Skills:** Levantamento de requisitos, diagramação (BPMN, UML) e metodologias ágeis (Scrum).
+
+---
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python, Java, SQL
-- **Engenharia:** BPMN, EAP, TAP, Documentação de Requisitos e Casos de Uso.
-- **Bancos de Dados:** MySQL / PostgreSQL.
+
+- **Engenharia & Gestão:** BPMN, EAP, TAP, Requisitos e Casos de Uso.
+- **Bancos de Dados:** PostgreSQL e MySQL.
+- **Ferramentas de Trabalho:** Termux, Acode, Git e GitHub.
+
+---
+
+### 📊 Estatísticas e Atividade
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moiseskennedy&show_icons=true&theme=tokyonight&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Moiseskennedy&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+<br>
+
+---
 
 ### 📬 Vamos nos conectar?
 
