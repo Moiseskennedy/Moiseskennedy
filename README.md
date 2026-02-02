@@ -8,6 +8,29 @@
 
 ---
 
+<p align="center">
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moiseskennedy&show_icons=true&theme=tokyonight&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Moiseskennedy&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Moiseskennedy/Moiseskennedy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+<br>
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+<br>
+
 ### 🚀 Sobre mim
 - 🎓 **FATEC Franca:** Cursando Análise e Desenvolvimento de Sistemas (3º Semestre).
 - 🛠️ **Impacto Social:** Atuação no desenvolvimento de projetos para ONGs (Instituto Luz de Lô), aplicando arquitetura em camadas e boas práticas de Engenharia de Software.
@@ -21,28 +44,6 @@
 - **Engenharia & Gestão:** BPMN, EAP, TAP, Requisitos e Casos de Uso.
 - **Bancos de Dados:** PostgreSQL e MySQL.
 - **Ferramentas de Trabalho:** Termux, Acode, Git e GitHub.
-
----
-
-### 📊 Estatísticas e Atividade
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moiseskennedy&show_icons=true&theme=tokyonight&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Moiseskennedy&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-<br>
 
 ---
 
