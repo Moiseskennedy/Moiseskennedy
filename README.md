@@ -1,7 +1,12 @@
 ![Banner Hello World](Coder.jpg)
 # Olá, eu sou o Moises Kennedy! 👋
 
-Desenvolvedor em formação focado em criar soluções eficientes e documentadas. Atualmente cursando o 3º semestre de ADS na FATEC Franca.
+### 📊 Minhas Estatísticas
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Moiseskennedy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moiseskennedy&layout=compact&theme=dracula&langs_count=6" />
+</p>
 
 ### 🚀 Sobre mim
 - 🛠️ Atuando no desenvolvimento de projetos para ONGs, aplicando boas práticas de Engenharia de Software.
