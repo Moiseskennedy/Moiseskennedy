@@ -3,9 +3,10 @@
 
 ### 📊 Minhas Estatísticas
 
-![Stats de Moises](https://github-readme-stats.vercel.app/api?username=Moiseskennedy&show_icons=true&theme=dracula)
-
-![Linguagens de Moises](https://github-readme-stats.vercel.app/api/top-langs/?username=Moiseskennedy&layout=compact&theme=dracula&langs_count=6)
+<p align="left">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moiseskennedy&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Moiseskennedy&layout=compact&theme=dracula&langs_count=6" />
+</p>
 
 ### 🔥 Minha Constância
 
