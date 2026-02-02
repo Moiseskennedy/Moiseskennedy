@@ -8,6 +8,11 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moiseskennedy&layout=compact&theme=dracula&langs_count=6" />
 </p>
 
+### 🔥 Minha Constância
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Moiseskennedy&theme=dracula&hide_border=true)
+
+
 ### 🚀 Sobre mim
 - 🛠️ Atuando no desenvolvimento de projetos para ONGs, aplicando boas práticas de Engenharia de Software.
 - 🎯 Foco atual: Aperfeiçoamento em Python e SQL para análise de dados e Machine Learning.
