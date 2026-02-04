@@ -42,7 +42,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 - **Engenharia & Gestão:** BPMN, EAP, TAP, Requisitos e Casos de Uso.
-- **Bancos de Dados:** PostgreSQL e MySQL.
+- **Bancos de Dados:** SQLite.
 - **Ferramentas de Trabalho:** Termux, Acode, Git e GitHub.
 
 ---
