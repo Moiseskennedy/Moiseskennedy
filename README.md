@@ -9,12 +9,12 @@
 ---
 
 <p align="center">
-  <img width="600px" height="300px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moiseskennedy&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img width="600px" height="300px" src="https://github-readme-stats-beige-mu-66.vercel.app/api?username=Moiseskennedy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img width="600px" height="300px" 
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Moiseskennedy&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" />
+  <img width="600px" height="300px" src="https://github-readme-stats-beige-mu-66.vercel.app/api/top-langs/?username=Moiseskennedy&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" />
+
 </p>
 
 <div align="center">
