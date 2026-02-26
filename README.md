@@ -13,7 +13,8 @@
 </p>
 
 <p align="center">
-  <img width="600px" height="300px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Moiseskennedy&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img width="600px" height="300px" 
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Moiseskennedy&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" />
 </p>
 
 <div align="center">
