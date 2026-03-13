@@ -12,9 +12,14 @@
   <img width="600px" height="300px" src="https://github-readme-stats-beige-mu-66.vercel.app/api?username=Moiseskennedy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
-<p align="center">
-  <img width="600px" src="https://github-readme-stats-beige-mu-66.vercel.app/api/top-langs/?username=Moiseskennedy&theme=tokyonight&hide_border=true&langs_count=6&count_private=true&layout=compact" />
+  <p align="center">
+  <img 
+    src="https://github-readme-stats-beige-mu-66.vercel.app/api/top-langs/?username=Moiseskennedy&hide_border=true&layout=compact&hide_title=true&bg_color=0d1117&title_color=ffffff&text_color=9fadc0" 
+    style="object-fit: cover; 
+    object-position: center"
+  />
 </p>
+
 
 
 <div align="center">
