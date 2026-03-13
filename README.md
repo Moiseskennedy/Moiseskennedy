@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img width="600px" height="300px" src="https://github-readme-stats-beige-mu-66.vercel.app/api/top-langs/?username=Moiseskennedy&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" />
-
+  <img width="600px" src="https://github-readme-stats-beige-mu-66.vercel.app/api/top-langs/?username=Moiseskennedy&theme=tokyonight&hide_border=true&langs_count=6&count_private=true&layout=compact" />
 </p>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Moiseskennedy/Moiseskennedy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
