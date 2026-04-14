@@ -40,15 +40,16 @@
 ### 🚀 Sobre mim
 - 🎓 **FATEC Franca:** Cursando Análise e Desenvolvimento de Sistemas (3º Semestre).
 - 🛠️ **Impacto Social:** Atuação no desenvolvimento de projetos para ONGs (Instituto Luz de Lô), aplicando arquitetura em camadas e boas práticas de Engenharia de Software.
-- 🎯 **Foco Atual:** Especialização em **Python** e **SQL** voltados para Análise de Dados e Machine Learning.
-- 📚 **Soft Skills:** Levantamento de requisitos, diagramação (BPMN, UML) e metodologias ágeis (Scrum).
+- 🎯 ​**Foco Atual:** Especialização em Java (POO), JavaScript e Python, integrando sistemas com MySQL e desenvolvendo soluções voltadas para Análise de Dados e Machine Learning.
+- 🧠 **Soft Skills:** Resolução de problemas, proatividade e comunicação técnica.
+- ⚙️ **Processos e Engenharia:** Metodologias ágeis (Scrum), levantamento de requisitos e diagramação (BPMN, UML).
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-- **Engenharia & Gestão:** BPMN, EAP, TAP, Requisitos e Casos de Uso.
-- **Bancos de Dados:** SQLite.
+- **Engenharia & Gestão:** Metodologias Ágeis (Scrum e Kanban), BPMN, EAP, TAP, Engenharia de Requisitos e Casos de Uso (UML).
+- **Bancos de Dados:** SQLite e MySQL
 - **Ferramentas de Trabalho:** Termux, Acode, Git e GitHub.
 
 ---
