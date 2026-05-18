@@ -8,9 +8,14 @@
 
 ---
 
-| Meus Números | Minha Consistência |
-| :---: | :---: |
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moiseskennedy&theme=tokyonight" width="400px"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moiseskennedy&theme=tokyonight" width="400px"/> |
+
+<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moiseskennedy&theme=tokyonight" width="500px"/> 
+</p>
+
+<br>
+
 
   <p align="center">
   <img 
@@ -51,6 +56,16 @@
 - **Engenharia & Gestão:** Metodologias Ágeis (Scrum e Kanban), BPMN, EAP, TAP, Engenharia de Requisitos e Casos de Uso (UML).
 - **Bancos de Dados:** SQLite e MySQL
 - **Ferramentas de Trabalho:** Termux, Acode, Git e GitHub.
+
+---
+### 🎲 Meus Dados
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moiseskennedy&theme=tokyonight" width="700px"/> 
+</p>
+
+<br>
 
 ---
 
