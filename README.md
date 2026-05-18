@@ -8,9 +8,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-beige-mu-66.vercel.app/api?username=Moiseskennedy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
+| Meus Números | Minha Consistência |
+| :---: | :---: |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moiseskennedy&theme=tokyonight" width="400px"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moiseskennedy&theme=tokyonight" width="400px"/> |
 
   <p align="center">
   <img 
